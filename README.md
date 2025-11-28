@@ -200,17 +200,6 @@ jupyter notebook
 
 ---
 
-## License / Academic Integrity
-
-This repository is created for **educational purposes only** as part of the coursework for ENCS5341 at Birzeit University. 
-
-**Academic Integrity Notice:**  
-Students are expected to complete their assignments independently and adhere to the university's academic integrity policies. This repository is shared for reference and learning purposes. Directly copying code or solutions for submission violates academic honesty standards and may result in disciplinary action.
-
-If you use this repository as a reference, ensure you understand the concepts and implement your own solutions.
-
----
-
 ## Contact
 
 For questions or discussions related to this assignment, please contact the course instructor or refer to the course materials.
